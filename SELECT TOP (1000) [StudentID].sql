@@ -1,0 +1,6 @@
+SELECT TOP (1000) [StudentID]
+      ,[FirstName]
+      ,[LastName]
+      ,[Email]
+      ,[EnrollmentDate]
+  FROM [StudentDB].[dbo].[Students]
